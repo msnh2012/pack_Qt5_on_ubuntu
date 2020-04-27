@@ -78,3 +78,5 @@ export QT_PLUGIN_PATH=/app/plugins:$QT_PLUGIN_PATH
 export QML2_IMPORT_PATH=/app/qml:$QML2_IMPORT_PATH
 ./{YOUR APP NAME}
 ```
+
+That's all.
